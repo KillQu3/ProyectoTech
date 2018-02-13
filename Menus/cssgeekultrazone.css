@@ -1,0 +1,39 @@
+#geekultrazone.navbar-default .navbar-brand {
+    color: rgba(119, 119, 119, 1);
+}
+#geekultrazone.navbar-default {
+    font-size: 14px;
+    background-color: rgba(113, 198, 247, 1);
+    background: -webkit-linear-gradient(top, rgba(142, 237, 226, 1) 0%, rgba(113, 198, 247, 1) 100%);
+    background: linear-gradient(to bottom, rgba(142, 237, 226, 1) 0%, rgba(113, 198, 247, 1) 100%);
+    border-bottom-width: 1px;
+}
+#geekultrazone.navbar-default .navbar-nav>li>a {
+    color: rgba(119, 119, 119, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#geekultrazone.navbar-default .navbar-nav>li>a:hover,
+#geekultrazone.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(51, 51, 51, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#geekultrazone.navbar-default .navbar-nav>.active>a,
+#geekultrazone.navbar-default .navbar-nav>.active>a:hover,
+#geekultrazone.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(85, 85, 85, 1);
+    background-color: rgba(231, 231, 231, 1);
+}
+#geekultrazone.navbar-default .navbar-toggle {
+    border-color: #ddd;
+}
+#geekultrazone.navbar-default .navbar-toggle:hover,
+#geekultrazone.navbar-default .navbar-toggle:focus {
+    background-color: #ddd;
+}
+#geekultrazone.navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+#geekultrazone.navbar-default .navbar-toggle:hover .icon-bar,
+#geekultrazone.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #71c6f7;
+}
